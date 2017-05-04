@@ -1,4 +1,10 @@
-﻿using System;
+/**THIS IS FOR EXAMPLE ONLY!!
+
+BY NO MEANS ARE YOU TO USE THIS SOURCE CODE AND REUPLOAD IT AS YOUR OWN WORK
+
+**/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
