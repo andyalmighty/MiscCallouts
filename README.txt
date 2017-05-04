@@ -1,5 +1,3 @@
-# MiscCallouts
-MiscCallouts SLN 
-This is Miscellaenous Callouts from LCPDFR.com. 
+[MiscCallouts]
 
-My first callout made is on here.
+I have uploaded my first callout here for new devs to have more example work.
